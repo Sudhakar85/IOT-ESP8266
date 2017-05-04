@@ -19,7 +19,7 @@ Once the IDE installed, the additional ESP8266 library has to be installed to pr
 1. Create new folder name called "Portable" in Arduino installed directory which has lib and Bin like below
 This steps solves some of the compilation issues in the ESP8266 library
 
-<image Link>
+[./IOT-ESP8266-Wemos-D1/Images/ArduinoDirectory.jpg?raw=true ]
 
 
 2. Open File-> Preferences and Enter the below package link <br>
@@ -64,8 +64,4 @@ You can also see connected IP Address of the Server
 9. open the browser and enter the ip address to see the Hello World Message
 
 10. All the best and let me know if you have any questions.... 
-
-
-
-
 
