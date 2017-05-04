@@ -34,7 +34,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 Choose Tools -> Board -> Board Manager and then select ESP8266 library like the last one in the screen shot and click install.
 This will download around 150MB file and install. Once the installation is completed then close the the Arduino IDE and reopen.
 
-![Board Manager](/Images/Board Manager.jpg?raw=true "Board Manager")
+![Board Manager](/Images/BoardManager.jpg?raw=true "Board Manager")
 
 3. Now choose Tools - Board -> ESP8266 D1 or Wemos D1 ( Retaired ) to set the current board for programming
 
