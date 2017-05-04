@@ -55,15 +55,22 @@ https://www.wemos.cc/downloads
 
 6. Modify the below line to include your WIFI SSID and Password
 
-const char* ssid = "sudhakar";
-const char* password = "xxxxx";
+		const char* ssid = "sudhakar"; <br>
+		const char* password = "xxxxx";
 
 7. Choose Sketch -> upload to upload the file to your ESP8266
 
 8. Once uploaded, choose Tools -> Serial Monitor to see all the serial print message in the board. </B>
-You can also see connected IP Address of the Server
+	You can also see connected IP Address of the Server
 
-9. open the browser and enter the ip address to see the Hello World Message
+9. Open the browser and enter the ip address to see the Hello World Message
 
 10. All the best and let me know if you have any questions.... 
+
+
+# References
+
+	https://www.wemos.cc/product/d1.html
+	
+
 
