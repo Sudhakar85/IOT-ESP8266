@@ -42,8 +42,7 @@ This will download around 150MB file and install. Once the installation is compl
 # Program ESP8266
 
 1. Install the driver for the USB drive CH340 USB to UART driver from below link <br>
-
-https://www.wemos.cc/downloads
+	https://www.wemos.cc/downloads
 
 2. Connect ESP8266 board to the computer with Micro USB
 
