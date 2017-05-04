@@ -5,6 +5,9 @@ You need below things to get started
 1. Arduino IDE
 2. ESP8266 Wemos D1 Board . </br>
 http://www.ebay.com/itm/172579194166?_trksid=p2057872.m2749.l2649&var=471417281616&ssPageName=STRK%3AMEBIDX%3AIT
+
+![ESP8266](/Images/ESP8266_Wemos_D1.jpg?raw=true "ESP8266")
+
 3. Micro USB Cable
 
 # Arduino IDE
@@ -19,20 +22,19 @@ Once the IDE installed, the additional ESP8266 library has to be installed to pr
 1. Create new folder name called "Portable" in Arduino installed directory which has lib and Bin like below
 This steps solves some of the compilation issues in the ESP8266 library
 
-[./IOT-ESP8266-Wemos-D1/Images/ArduinoDirectory.jpg?raw=true ]
-
+![Portable](/Images/ArduinoDirectory.jpg?raw=true "Portable")
 
 2. Open File-> Preferences and Enter the below package link <br>
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
-<image>
+![Preference](/Images/Preference.jpg?raw=true "Preference")
 
 3. Now download and install the ESP8266 board
 
 Choose Tools -> Board -> Board Manager and then select ESP8266 library like the last one in the screen shot and click install.
 This will download around 150MB file and install. Once the installation is completed then close the the Arduino IDE and reopen.
 
-<images>
+![Board Manager](/Images/Board Manager.jpg?raw=true "Board Manager")
 
 3. Now choose Tools - Board -> ESP8266 D1 or Wemos D1 ( Retaired ) to set the current board for programming
 
